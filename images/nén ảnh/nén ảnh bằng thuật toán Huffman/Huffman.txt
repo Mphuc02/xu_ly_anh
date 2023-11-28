@@ -1,0 +1,2 @@
+Encoded Matrix
+Số bit sau khi nén: 390929

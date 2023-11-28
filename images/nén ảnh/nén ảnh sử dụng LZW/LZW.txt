@@ -1,0 +1,3 @@
+
+Encoded Matrix
+Kích thước dữ liệu sau khi nén: 3564
